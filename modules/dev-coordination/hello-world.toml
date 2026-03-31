@@ -1,0 +1,10 @@
+[module]
+repo = "https://github.com/dev-coordination/hello-world"
+description = "Minimal example hub module"
+author = "Dev Coordination"
+license = "MIT"
+tags = ["example", "hello-world"]
+
+[module.links]
+docs = "https://github.com/dev-coordination/hello-world"
+
