@@ -1,0 +1,9 @@
+[module]
+repo = "https://github.com/dev-coordination/detection-window-demo"
+description = "Windowed detection stats over synthetic camera"
+author = "Dev Coordination"
+license = "MIT"
+tags = ["vision", "detection", "window", "demo"]
+
+[module.links]
+docs = "https://github.com/dev-coordination/detection-window-demo"
