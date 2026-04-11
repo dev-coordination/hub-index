@@ -1,0 +1,10 @@
+[module]
+repo = "https://github.com/dev-coordination/safety-monitor"
+description = "Event-driven safety monitoring flows"
+author = "Dev Coordination"
+license = "MIT"
+tags = ["safety", "monitoring", "feedback"]
+
+[module.links]
+docs = "https://github.com/dev-coordination/safety-monitor#readme"
+support = "https://github.com/dev-coordination/safety-monitor/issues"
